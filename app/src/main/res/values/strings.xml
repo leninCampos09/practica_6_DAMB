@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">practica 6</string>
+    <string-array name="paises">
+        <item>Seleccionar pais</item>
+        <item>Australia</item>
+        <item>China</item>
+        <item>India</item>
+        <item>UK</item>
+        <item>USA</item>
+    </string-array>
+</resources>
